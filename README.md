@@ -26,7 +26,7 @@ Installing ide and gcc compiler:
 ![](https://github.com/EjnarRaidriar/Lab-0/blob/main/Screenshot%20from%202022-09-12%2006-46-56.png)
 ![](https://github.com/EjnarRaidriar/Lab-0/blob/main/Screenshot%20from%202022-09-12%2006-50-53.png)
 ![](https://github.com/EjnarRaidriar/Lab-0/blob/main/Screenshot%20from%202022-09-12%2006-52-03.png)
-Running a c++ program in terminal:
-![](https://github.com/EjnarRaidriar/Lab-0/blob/main/Screenshot%20from%202022-09-12%2006-56-15.png)
 Installing Markfile:
 ![](https://github.com/EjnarRaidriar/Lab-0/blob/main/Screenshot%20from%202022-09-12%2007-11-54.png)
+Running a c++ program in terminal:
+![](https://github.com/EjnarRaidriar/Lab-0/blob/main/Screenshot%20from%202022-09-19%2012-55-12.png)
